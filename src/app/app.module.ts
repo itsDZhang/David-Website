@@ -34,6 +34,7 @@ import { Project3Component } from './project3/project3.component';
 import { Project4Component } from './project4/project4.component';
 import { Project5Component } from './project5/project5.component';
 import { Project6Component } from './project6/project6.component';
+import { LoadingComponent } from './loading/loading.component';
 
 @NgModule({
   declarations: [
@@ -44,7 +45,8 @@ import { Project6Component } from './project6/project6.component';
     Project3Component,
     Project4Component,
     Project5Component,
-    Project6Component
+    Project6Component,
+    LoadingComponent
   ],
   imports: [
     BrowserModule,
