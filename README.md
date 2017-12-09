@@ -1,7 +1,6 @@
 # David-Website
 
-## [Link](https://dzcoderx.github.io/#/) to Website
-
+## [Click here](https://dzcoderx.github.io/#/) to visit my site :) 
 
 Personal Website
 
